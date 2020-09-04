@@ -11,7 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)    //杨传杰
         {
             Console.WriteLine("HelloWorld");
-            Console.ReadKey();
+            Console.ReadKey();//test
         }
     }
 }
